@@ -4,6 +4,7 @@ I am Khang Nguyen, am living and working in HoChiMinh, Vietnam. Currently, I'm a
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ngkhang0220-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ngkhang0220/)](https://www.linkedin.com/in/ngkhang0220/)
+![Codewars](https://www.codewars.com/users/ngkhang/badges/micro)
 ---
 
 ## ⚡ Technologies
