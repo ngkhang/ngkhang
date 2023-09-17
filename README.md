@@ -62,5 +62,5 @@
 </p>
 -->
 
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngkhang&show_icons=true&layout=compact&card_width=320" alt="ngkhang" /></p>
-<p><img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ngkhang" alt="ngkhang" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngkhang&show_icons=true&layout=compact" alt="ngkhang" /></p>
+<p><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ngkhang" alt="ngkhang" /></p>
