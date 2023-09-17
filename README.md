@@ -1,30 +1,64 @@
-## 👋 Fancy seeing you here!
+<h2 align="center">
+  👋 Fancy seeing you here!
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
+</h2>
 
-I am Khang Nguyen, am living and working in HoChiMinh, Vietnam. Currently, I'm a Frontend Developer based on ReactJS. I will learn more about Angularjs, NodeJS, and more to become a full-stack developer in the future. I'm looking to collaborate and learn from projects.
+<p><img width="50%" align="left" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" /></p>
+<p align="center">
+  I am Khang Nguyen, am living and working in HoChiMinh, Vietnam. Currently, I'm a Frontend Developer based on ReactJS. I will learn more about Angularjs, NodeJS, and more to become a full-stack developer in the future. I'm looking to collaborate and learn from projects
+</p>
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ngkhang0220-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ngkhang0220/)](https://www.linkedin.com/in/ngkhang0220/)
-![Codewars](https://www.codewars.com/users/ngkhang/badges/micro)
+<p>&nbsp; - 🌱 I’m currently learning <strong>React</strong>, <strong>NodeJs</strong></p>
+<p>
+    &nbsp; - 👨‍💻 All of my projects are available at
+    <a href="https://ngkhang.onrender.com/" target="blank">
+      My portflio
+    </a>
+  </p>
+  <p>
+    &nbsp; - 📄 Know about my experiences
+    <a href="https://drive.google.com/file/d/19Dh5k6RCWSnhxKem7ZXxjPb4e4wOLRHM/preview" target="blank">
+      CV Frontend NgKhang
+    </a>
+  </p>
+<br/>
+
+<h3 align="left">&nbsp;Connect with me:</h3>
+<p align="left">
+  &nbsp;
+  <a href="https://linkedin.com/in/ngkhang0220" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngkhang0220" height="25" width="40" />
+  </a>
+  <a href="https://leetcode.com/ngkhang/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="25" width="40" />
+  </a>
+  <a href="" target="blank">
+    <img align="center" src="https://www.codewars.com/users/ngkhang/badges/micro" alt="codewars" height="25" />
+  </a>
+</p>
+
 ---
 
-## ⚡ Technologies
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<h3 align="center">⚡ Technology Stack</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+</p>
 
 <!--
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853D?style=flat-square&logo=Node.js&logoColor=white)
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
+</p>
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngkhang&hide=TeX&layout=compact)
-<br/>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ngkhang)
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngkhang&show_icons=true&layout=compact&card_width=400" alt="ngkhang" /></p>
+<p><img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ngkhang&card_width=450" alt="ngkhang" /></p>
