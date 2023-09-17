@@ -3,26 +3,28 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 </h2>
 
-<p><img width="50%" align="left" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" /></p>
 <p align="center">
-  I am Khang Nguyen, am living and working in HoChiMinh, Vietnam. Currently, I'm a Frontend Developer based on ReactJS. I will learn more about Angularjs, NodeJS, and more to become a full-stack developer in the future. I'm looking to collaborate and learn from projects
+  I am Khang Nguyen, living and working in Ho Chi Minh, Vietnam. Currently, I'm a Frontend Developer based on ReactJS. I will learn more about Angularjs, NodeJS, and more to become a full-stack developer in the future. I'm looking to collaborate and learn from projects
 </p>
 <br/>
 
-<p>&nbsp; - 🌱 I’m currently learning <strong>React</strong>, <strong>NodeJs</strong></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
+</p>
+
+<p>- 🌱 I’m currently learning <strong>React</strong>, <strong>NodeJs</strong></p>
 <p>
-    &nbsp; - 👨‍💻 All of my projects are available at
-    <a href="https://ngkhang.onrender.com/" target="blank">
-      My portflio
-    </a>
-  </p>
-  <p>
-    &nbsp; - 📄 Know about my experiences
-    <a href="https://drive.google.com/file/d/19Dh5k6RCWSnhxKem7ZXxjPb4e4wOLRHM/preview" target="blank">
-      CV Frontend NgKhang
-    </a>
-  </p>
-<br/>
+  - 👨‍💻 All of my projects are available at
+  <a href="https://ngkhang.onrender.com/" target="blank">
+    My portfolio
+  </a>
+</p>
+<p>
+  - 📄 Know about my experiences
+  <a href="https://drive.google.com/file/d/19Dh5k6RCWSnhxKem7ZXxjPb4e4wOLRHM/preview" target="blank">
+    CV Frontend NgKhang
+  </a>
+</p>
 
 <h3 align="left">&nbsp;Connect with me:</h3>
 <p align="left">
@@ -60,5 +62,5 @@
 </p>
 -->
 
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngkhang&show_icons=true&layout=compact&card_width=400" alt="ngkhang" /></p>
-<p><img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ngkhang&card_width=450" alt="ngkhang" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngkhang&show_icons=true&layout=compact&card_width=320" alt="ngkhang" /></p>
+<p><img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ngkhang" alt="ngkhang" /></p>
