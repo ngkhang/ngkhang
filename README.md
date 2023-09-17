@@ -61,6 +61,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
 </p>
 -->
+<br/>
 
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngkhang&show_icons=true&layout=compact" alt="ngkhang" /></p>
-<p><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ngkhang" alt="ngkhang" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngkhang&show_icons=true&layout=compact&card_width=360" alt="ngkhang" /></p>
